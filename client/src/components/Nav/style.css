@@ -1,0 +1,9 @@
+nav {
+    z-index: 2;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+}
+
+.navbar-brand {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+}

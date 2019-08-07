@@ -1,0 +1,28 @@
+#jumbo {
+    position: relative;
+    height: 200px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url("./2.jpg");
+    clear: both;
+    padding: 5%;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.h1 {
+    background: linear-gradient(to right,black,white,black);
+    -webkit-background-clip: text;
+    color: transparent;
+    padding: .5%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 300%
+}
+.h2 {
+    background: linear-gradient(to right, red,white,yellow);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family: 'Open Sans', sans-serif;
+    /* font-weight: 100; */
+    font-size: 140%
+}
